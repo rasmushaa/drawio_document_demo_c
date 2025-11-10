@@ -14,12 +14,12 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="Data" link="https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/rasmushaa/drawio_document_demo_b/refs/heads/main/doc/arc.drawio" id="4">
-                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
                         <mxGeometry x="-10" y="225" width="160" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="Inform user" link="https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/rasmushaa/drawio_document_demo_a/refs/heads/main/doc/arc.drawio" id="5">
-                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
                         <mxGeometry x="510" y="225" width="170" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
@@ -74,6 +74,11 @@
                 <mxCell id="18" value="Sub-component C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="260" y="180" width="120" height="30" as="geometry"/>
                 </mxCell>
+                <UserObject label="" link="https://github.com/rasmushaa/drawio_document_demo_c" id="19">
+                    <mxCell style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+                        <mxGeometry x="433" y="368" width="39" height="39" as="geometry"/>
+                    </mxCell>
+                </UserObject>
             </root>
         </mxGraphModel>
     </diagram>
